@@ -1,5 +1,7 @@
 url: https://jihyeon-kwon.github.io/rmedicine/
 template:
   bootstrap: 5
-  bslib:
-    bootswatch: zephyr
+  light-switch: true
+  theme: atom-one-light
+  theme-dark: atom-one-dark
+
