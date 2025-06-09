@@ -1,4 +1,5 @@
 url: https://jihyeon-kwon.github.io/rmedicine/
 template:
   bootstrap: 5
-
+  bslib:
+    bootswatch: zephyr
