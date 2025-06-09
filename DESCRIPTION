@@ -12,5 +12,5 @@ RoxygenNote: 7.3.1
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/jihyeon-kwon/rmedicine
+URL: https://github.com/jihyeon-kwon/rmedicine, https://jihyeon-kwon.github.io/rmedicine/
 BugReports: https://github.com/jihyeon-kwon/rmedicine/issues

@@ -1,6 +1,8 @@
 
 # rmedicine
 
+# rmedicine <a href="https://jihyeon-kwon.github.io/rmedicine/"><img src="man/figures/logo.png" align="right" height="120" alt="rmedicine website" /></a>
+
 <!-- badges: start -->
 <!-- badges: end -->
 
